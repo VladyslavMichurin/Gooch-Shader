@@ -686,6 +686,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skull_Phong
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bc86b7528f9ce5f4182004dc69888bc6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -895,6 +899,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 489c9166d9acd2446a70518af2a211fb, type: 3}
       propertyPath: m_Name
       value: Skull_Blinn-Phong
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 489c9166d9acd2446a70518af2a211fb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638721325848562299
-    m_Hash: 1164529822
+      ticks: 638721345220402827
+    m_Hash: 1525443029
   m_LockFileStatus:
     m_FilePath: D:/projects/Git/Gooch-Shader/Gooch Shader/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638721327123275967
-    m_Hash: 3385885138
+      ticks: 638721345220402827
+    m_Hash: 2255463668
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
